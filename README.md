@@ -4,7 +4,7 @@
 <h3 align="center">🔥 Front-end developer in constant evolution and learning, from Brazil.</h3>
 <br>
 
-- 📝 Análise e Desenvolvimento de Sistemas - **Estácio** 
+- 📝 Analysis and systems development - **Estácio** 
 
 - 💬 Past professional experience: **help desk, QA, deployment manager**
 
